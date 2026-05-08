@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Ramos
+# 👨🏻‍💻 João Ramos
 
 **`Desenvolvedor Back-End`**
 
