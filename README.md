@@ -4,13 +4,6 @@
 
 Me chamo João Ramos, tenho 22 anos e sou natural de Santos. Atualmente, estou cursando o ultimo semestre de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. Sou apaixonado por tecnologia e desenvolvo o projeto EntreLinhas, uma aplicação/forúm web para desabafos anonimos na internet.
 <p align="left">
-    <a href="[https://github.com/CodeByRamostab=repositories&sort=stargazers]">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CodeByRamos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/CodeByRamos?tab=followers">
         <img 
             alt="Seguidores" 
